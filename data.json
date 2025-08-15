@@ -1,0 +1,324 @@
+{
+    "num_mean": {
+        "Price": 1696655.083181542,
+        "Year": 2016.4195506982392,
+        "Kilometer": 54206.35883424408,
+        "Engine": 1701.6656131479142,
+        "Max Power": 129.89614412136535,
+        "Max Torque": 246.47576580278127,
+        "Length": 4281.478369905956,
+        "Width": 1767.580564263323,
+        "Height": 1592.4238244514108,
+        "Seating Capacity": 5.310344827586207,
+        "Fuel Tank Capacity": 52.15465639049454
+    },
+    "str_mode": {
+        "Make": "Maruti Suzuki",
+        "Fuel Type": "Diesel",
+        "Transmission": "Manual",
+        "Location": "Mumbai",
+        "Color": "White",
+        "Owner": "First",
+        "Seller Type": "Individual",
+        "Drivetrain": "FWD"
+    },
+    "encoded_dict": {
+        "Make": {
+            "Audi": 102,
+            "BMW": 151,
+            "Chevrolet": 1,
+            "Datsun": 0,
+            "Fiat": 0,
+            "Ford": 55,
+            "Honda": 13,
+            "Hyundai": 18,
+            "Isuzu": 63,
+            "Jaguar": 138,
+            "Jeep": 74,
+            "Kia": 50,
+            "Lamborghini": 1000,
+            "Land Rover": 303,
+            "Lexus": 161,
+            "MG": 69,
+            "MINI": 124,
+            "Mahindra": 32,
+            "Maruti Suzuki": 10,
+            "Mercedes-Benz": 171,
+            "Mitsubishi": 54,
+            "Nissan": 9,
+            "Porsche": 322,
+            "Renault": 7,
+            "Rolls-Royce": 803,
+            "Skoda": 48,
+            "Ssangyong": 23,
+            "Tata": 28,
+            "Toyota": 61,
+            "Volkswagen": 20,
+            "Volvo": 103
+        },
+        "Fuel Type": {
+            "CNG": 45,
+            "CNG + CNG": 16,
+            "Diesel": 280,
+            "Electric": 178,
+            "Hybrid": 1000,
+            "LPG": 11,
+            "Petrol": 165,
+            "Petrol + LPG": 0
+        },
+        "Transmission": {
+            "Automatic": 1000,
+            "Manual": 0
+        },
+        "Location": {
+            "Agra": 230,
+            "Ahmedabad": 412,
+            "Allahabad": 158,
+            "Ambala Cantt": 86,
+            "Amritsar": 116,
+            "Aurangabad": 248,
+            "Bangalore": 627,
+            "Bhopal": 146,
+            "Bhubaneswar": 101,
+            "Bulandshahar": 61,
+            "Chandigarh": 916,
+            "Chennai": 934,
+            "Coimbatore": 438,
+            "Dak. Kannada": 248,
+            "Dehradun": 425,
+            "Delhi": 824,
+            "Deoghar": 47,
+            "Dharwad": 166,
+            "Ernakulam": 104,
+            "Faizabad": 36,
+            "Faridabad": 375,
+            "Ghaziabad": 1000,
+            "Goa": 814,
+            "Gorakhpur": 356,
+            "Gurgaon": 841,
+            "Guwahati": 234,
+            "Haldwani": 159,
+            "Hyderabad": 673,
+            "Indore": 138,
+            "Jaipur": 381,
+            "Jalandhar": 281,
+            "Jamshedpur": 53,
+            "Kanpur": 125,
+            "Karnal": 795,
+            "Kharar": 137,
+            "Kheda": 105,
+            "Kolkata": 268,
+            "Kollam": 85,
+            "Kota": 534,
+            "Lucknow": 270,
+            "Ludhiana": 460,
+            "Mangalore": 202,
+            "Meerut": 107,
+            "Mirzapur": 117,
+            "Mohali": 412,
+            "Mumbai": 521,
+            "Muzaffurpur": 167,
+            "Mysore": 453,
+            "Nagpur": 114,
+            "Nashik": 329,
+            "Navi Mumbai": 601,
+            "Noida": 574,
+            "Panchkula": 73,
+            "Panvel": 252,
+            "Patna": 251,
+            "Pimpri-Chinchwad": 66,
+            "Pune": 561,
+            "Purnea": 123,
+            "Raipur": 443,
+            "Ranchi": 125,
+            "Ranga Reddy": 92,
+            "Roorkee": 62,
+            "Rudrapur": 115,
+            "Salem": 112,
+            "Samastipur": 109,
+            "Siliguri": 24,
+            "Surat": 882,
+            "Thane": 200,
+            "Udupi": 309,
+            "Unnao": 0,
+            "Vadodara": 954,
+            "Valsad": 148,
+            "Varanasi": 122,
+            "Warangal": 97,
+            "Yamunanagar": 249,
+            "Zirakpur": 179
+        },
+        "Color": {
+            "Beige": 391,
+            "Black": 956,
+            "Blue": 1000,
+            "Bronze": 484,
+            "Brown": 339,
+            "Gold": 228,
+            "Green": 408,
+            "Grey": 384,
+            "Maroon": 408,
+            "Orange": 344,
+            "Others": 176,
+            "Pink": 0,
+            "Purple": 434,
+            "Red": 425,
+            "Silver": 276,
+            "White": 565,
+            "Yellow": 984
+        },
+        "Owner": {
+            "4 or More": 0,
+            "First": 391,
+            "Fourth": 10,
+            "Second": 338,
+            "Third": 466,
+            "UnRegistered Car": 1000
+        },
+        "Seller Type": {
+            "Commercial Registration": 0,
+            "Corporate": 1000,
+            "Individual": 468
+        },
+        "Drivetrain": {
+            "AWD": 1000,
+            "FWD": 0,
+            "RWD": 646
+        }
+    },
+    "feature_selected": [
+        "Make",
+        "Max Power",
+        "Max Torque",
+        "Engine",
+        "Fuel Tank Capacity",
+        "Length",
+        "Width",
+        "Year"
+    ],
+    "mean": {
+        "Car_Age": 8.580449301760778,
+        "Volume": 7616203.422922828,
+        "Engine": 1701.6656131479142,
+        "Power": 129.89614412136535,
+        "Fuel": 52.15465639049454,
+        "Make": 58.92531876138433,
+        "Engine_per_Age": 202.02067062564723,
+        "Power_per_Engine": 0.07486279646359133,
+        "Fuel_per_Volume": 6.769858230869175e-06,
+        "Make_x_Power": 11419.374747712005,
+        "Log_Engine": 7.379086800698991,
+        "Log_Power": 4.775246882705953,
+        "Log_Car_Age": 2.197414440907508,
+        "Log_Make": 3.493524634404514,
+        "Efficiency_Score": 523.1770933618748,
+        "Make_Fuel_Interaction": 456.6495066171131
+    },
+    "std": {
+        "Car_Age": 3.370327463305745,
+        "Volume": 1290755.9107184613,
+        "Engine": 645.9973733574963,
+        "Power": 64.20875652610695,
+        "Fuel": 14.978116453805125,
+        "Make": 75.89107679553436,
+        "Engine_per_Age": 108.59757553165574,
+        "Power_per_Engine": 0.015438975005893002,
+        "Fuel_per_Volume": 1.10757311742058e-06,
+        "Make_x_Power": 28626.562474478706,
+        "Log_Engine": 0.34101775640296894,
+        "Log_Power": 0.435604579769611,
+        "Log_Car_Age": 0.35915099412380413,
+        "Log_Make": 1.0880420695439812,
+        "Efficiency_Score": 454.56335708166426,
+        "Make_Fuel_Interaction": 726.0273281819838
+    },
+    "max": {
+        "Car_Age": 37.0,
+        "Volume": 11541780.0,
+        "Engine": 6592.0,
+        "Power": 602.0,
+        "Fuel": 105.0,
+        "Make": 1000.0,
+        "Engine_per_Age": 796.4,
+        "Power_per_Engine": 0.14839034197767084,
+        "Fuel_per_Volume": 1.1359226058062425e-05,
+        "Make_x_Power": 602000.0,
+        "Log_Engine": 8.7937637591133,
+        "Log_Power": 6.401917196727186,
+        "Log_Car_Age": 3.6375861597263857,
+        "Log_Make": 6.90875477931522,
+        "Efficiency_Score": 5893.760232377739,
+        "Make_Fuel_Interaction": 7878.0
+    },
+    "min": {
+        "Car_Age": 3.0,
+        "Volume": 4633005.0,
+        "Engine": 624.0,
+        "Power": 35.0,
+        "Fuel": 15.0,
+        "Make": 0.0,
+        "Engine_per_Age": 39.0,
+        "Power_per_Engine": 0.024970273474050626,
+        "Fuel_per_Volume": 3.2376395017913344e-06,
+        "Make_x_Power": 0.0,
+        "Log_Engine": 6.437751649736401,
+        "Log_Power": 3.58351893845611,
+        "Log_Car_Age": 1.3862943611198906,
+        "Log_Make": 0.0,
+        "Efficiency_Score": 50.725490196078425,
+        "Make_Fuel_Interaction": 0.0
+    },
+    "weight": [
+        [
+            -7095609.471208586
+        ],
+        [
+            273438.0685394509
+        ],
+        [
+            -2625467.828662702
+        ],
+        [
+            1293970.7435902595
+        ],
+        [
+            4251918.840110301
+        ],
+        [
+            -884425.4099837234
+        ],
+        [
+            3349718.9302945444
+        ],
+        [
+            1421163.0765075667
+        ],
+        [
+            -2022374.6436707578
+        ],
+        [
+            12066479.670957707
+        ],
+        [
+            -505357.52132038306
+        ],
+        [
+            -3945567.4151284588
+        ],
+        [
+            6151175.627254299
+        ],
+        [
+            -255885.5024796198
+        ],
+        [
+            10098695.48293307
+        ],
+        [
+            10200509.948625147
+        ]
+    ],
+    "bias": [
+        -997900.0380550178
+    ]
+}
